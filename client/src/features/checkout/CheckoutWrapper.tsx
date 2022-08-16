@@ -1,4 +1,3 @@
-import { ConstructionOutlined } from "@mui/icons-material";
 import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
 import { useEffect, useState } from "react";
